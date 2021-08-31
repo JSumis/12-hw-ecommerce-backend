@@ -14,9 +14,21 @@ ProductTag.init(
       autoIncrement: true,
     },
     // need to reference the Product model's id
-    product_id: { type: DataTypes.INTEGER },
+    product_id: { 
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'product',
+        key: 'id',
+      },
+     },
     // need to reference the Tag models id
-    tag_id: { type: DataTypes.INTEGER },
+    tag_id: { 
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'tag',
+        key: 'id',
+      },
+    },
   },
   {
     sequelize,
