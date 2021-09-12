@@ -24,14 +24,16 @@
   npm start
 
  <br />
-  ## Walkthrough
-https://drive.google.com/file/d/1aBDOIfHuTRLHAhWBbO0aiPLRI2vNANOC/view?usp=sharing
 
+  ## Walkthrough
+
+https://drive.google.com/file/d/1aBDOIfHuTRLHAhWBbO0aiPLRI2vNANOC/view?usp=sharing
+<br />
 https://drive.google.com/file/d/1bSURicsr5qEX0-3IZF6BMLpaubtP86kp/view?usp=sharing
 
  <br />
   ## Questions
 
   You can find me on Github at https://github.com/JSumis/
-
+ <br />
   You can email me at jsumis76@gmail.com
